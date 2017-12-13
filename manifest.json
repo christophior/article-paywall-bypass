@@ -1,11 +1,11 @@
 {
-  "name": "Make WSJ & NYT Great Again",
+  "name": "article paywall bypass",
   "version": "0.3",
   "manifest_version": 2,
   "description": "Get around the paywall for many WSJ, NYT & FT content",
-  "homepage_url": "http://blog.jinsongli.com",
+  "homepage_url": "http://www.christophior.com",
   "icons": {
-    "48": "icons/eric_cartman.png"
+    "48": "icons/icon.png"
   },
   "background": {
     "scripts": [
